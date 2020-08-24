@@ -16,8 +16,10 @@
 
 ## Images
 ![bike](factorBike.jpg)
+
 URL for bike photo: https://www.ceramicspeed.com/en/cycling/inside/partners/factor-bikes/ 
 
 ![QuikTrip](QuikTrip_logo.png)
+
 URL for Quik Trip photo: https://en.wikipedia.org/wiki/QuikTrip 
 
