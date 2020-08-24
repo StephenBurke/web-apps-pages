@@ -8,11 +8,11 @@
 * Doing activities outside, whatever they may be
 * Listening to music
 
-## Past Jobs
-* Student Technician (Park Hill School District)
-* Seasonal Technician (Park Hill School District)
-* Construction (Private Contractor)
-* Clerk (QuikTrip)
+## Past Jobs 
+1. Clerk (QuikTrip)
+2. Construction (Private Contractor)
+3. Seasonal Technician (Park Hill School District)
+4. Student Technician (Park Hill School District)
 
 ## Images
 ![bike](factorBike.jpg)
