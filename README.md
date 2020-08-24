@@ -23,3 +23,9 @@ URL for bike photo: https://www.ceramicspeed.com/en/cycling/inside/partners/fact
 
 URL for Quik Trip photo: https://en.wikipedia.org/wiki/QuikTrip 
 
+## Links
+Lets connect via LinkedIn https://www.linkedin.com/in/stephen-burke-9b4591149/ <br/>
+
+Follow me on Twitter at https://twitter.com/Stephen_Bur <br/>
+
+Find me on GitHub  at https://github.com/StephenBurke
